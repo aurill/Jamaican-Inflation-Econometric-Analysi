@@ -37,11 +37,8 @@ Please note that this is a summary of the findings and recommendations, and the 
 
 Acknowledgements
 
-I would like to acknowledge the group members that I have collaborated with on this project. Their names are as follows: 
+I would like to acknowledge the group members that have contributed on this project. Their names are as follows: 
 
-Miss Nakera Stephenson 
-Miss Alayana Brown
-Miss Dana Wilson
-Mr Chad Espeut
+Miss Nakera Stephenson, Miss Alayana Brown, Miss Dana Wilson & Mr Chad Espeut. 
 
 
